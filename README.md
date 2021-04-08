@@ -6,6 +6,6 @@ workflow:
   1.we tried to make the project based on Augmented reality and computervision
   2.but due to lack of library support we could not do that
   3.so best we could make is do only one part of our work
-  4.here you can find both the augmented part and computer vision part if any can integrate between the two we will be very happy(open for everone in the world to contribute)
-  5.right now the game is based on opencv
- N.B:personally mail me:mujtahid2018@gmail.com if you are interested about it
+  4.here you can find both the augmented part and computer vision part in 2 seperate repo if any can integrate between the two we will be very happy(open for everone in the world to contribute)
+  5.this repo contains the Augmentedreality part of the game
+   N.B:personally mail me:mujtahid2018@gmail.com if you are interested about it
